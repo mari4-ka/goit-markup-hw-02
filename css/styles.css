@@ -54,6 +54,7 @@ body {
 /*site contacts*/
 .contacts .link {
   color: var(--primary-text-color);
+  font-size: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
